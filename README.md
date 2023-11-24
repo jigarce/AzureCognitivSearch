@@ -1,6 +1,6 @@
 # ASP.NET Core with Cognitive Azure Search
 
-[![.NET](https://github.com/jigarce/AspNetCoreAzureSearch/actions/workflows/dotnet.yml/badge.svg)](https://github.com/jigarce/AspNetCoreAzureSearch/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/jigarce/AzureCognitivSearch/blob/master/.github/workflows/badge.svg)](https://github.com/jigarce/AzureCognitivSearch/blob/master/.github/workflows/dotnet.yml)
 
  
 
