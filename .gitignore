@@ -1,0 +1,8 @@
+**/bin/
+**/org/
+**/obj/
+/Blazor/.vs
+/Blazor/Client/wwwroot/debug.log
+/.vs/
+/RazorPages/node_modules
+/RazorPages/.vs
